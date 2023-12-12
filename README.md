@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArKharMInn&show_icons=true&theme=radical)
+
 <h1 align="center">Hi 👋, I'm Ar Khar Minn</h1>
 <h3 align="center">Web Developer</h3>
 
