@@ -1,7 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArKharMInn&show_icons=true&theme=radical)
-
 <h1 align="center">Hi 👋, I'm Ar Khar Minn</h1>
 <h3 align="center">Web Developer</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArKharMInn&show_icons=true&theme=radical)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
