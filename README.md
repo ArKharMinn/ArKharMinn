@@ -5,7 +5,7 @@
 <p align="left">
 
 
-<a href="https://fb.com/arkarminn11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkarminn11" height="30" width="40" /></a>
+<a href="https://fb.com/akmin.9060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkarminn11" height="30" width="40" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArKharMinn&show_icons=true&theme=radical)
 
