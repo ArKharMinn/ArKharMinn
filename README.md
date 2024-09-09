@@ -15,8 +15,9 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" width="40" height="40"/>
 </a>
+
 
   <a href="https://reactnative.dev/" target="_blank">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
