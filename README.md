@@ -10,7 +10,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-    I'm a junior developer with a strong passion for web development and a keen interest in learning new technologies. I am excited to contribute to impactful projects and collaborate with talented teams in a dynamic environment. My goal is to grow my skills while delivering high-quality solutions.
+    I'm a developer with a strong passion for web development and a keen interest in learning new technologies. I am excited to contribute to impactful projects and collaborate with talented teams in a dynamic environment. My goal is to grow my skills while delivering high-quality solutions.
 </p>
 
 ---
