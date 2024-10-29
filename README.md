@@ -10,12 +10,12 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-    I'm a passionate developer with extensive experience in building dynamic and responsive web applications. I specialize in front-end technologies, but I'm also well-versed in back-end development. My goal is to create efficient and scalable solutions while constantly improving my skills and knowledge.
+    I'm a junior developer with a strong passion for web development and a keen interest in learning new technologies. I am excited to contribute to impactful projects and collaborate with talented teams in a dynamic environment. My goal is to grow my skills while delivering high-quality solutions.
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Technologies and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
@@ -63,21 +63,14 @@
 
 ---
 
-<h3 align="left">📫 Get in Touch:</h3>
-<p align="left">
-    <a href="https://fb.com/akmin.9060" target="_blank">Facebook</a>
-</p>
-
----
-
 <h3 align="left">🌐 Projects:</h3>
 <p align="left">
-    Check out some of my projects on my [GitHub](https://github.com/ArKharMinn).
+    I am currently working on various projects to strengthen my skills. You can explore my work on my [GitHub](https://github.com/ArKharMinn).
 </p>
 
 ---
 
-<h3 align="left">📖 Blog:</h3>
+<h3 align="left">📫 Get in Touch:</h3>
 <p align="left">
-    I share my thoughts and insights on [Dev.to](https://dev.to/) (or your preferred blogging platform).
+    If you're interested in collaborating or have any opportunities, feel free to connect with me on <a href="https://fb.com/akmin.9060" target="_blank">Facebook</a>.
 </p>
