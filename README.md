@@ -8,6 +8,13 @@
 
 ---
 
+<h3 align="left">👨‍💻 About Me</h3>
+<p align="left">
+    I'm a passionate senior developer with extensive experience in building dynamic and responsive web applications. I specialize in front-end technologies, but I'm also well-versed in back-end development. My goal is to create efficient and scalable solutions while constantly improving my skills and knowledge.
+</p>
+
+---
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank">
@@ -59,4 +66,18 @@
 <h3 align="left">📫 Get in Touch:</h3>
 <p align="left">
     <a href="https://fb.com/akmin.9060" target="_blank">Facebook</a>
+</p>
+
+---
+
+<h3 align="left">🌐 Projects:</h3>
+<p align="left">
+    Check out some of my projects on my [GitHub](https://github.com/ArKharMinn).
+</p>
+
+---
+
+<h3 align="left">📖 Blog:</h3>
+<p align="left">
+    I share my thoughts and insights on [Dev.to](https://dev.to/) (or your preferred blogging platform).
 </p>
