@@ -10,7 +10,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-    I'm a passionate senior developer with extensive experience in building dynamic and responsive web applications. I specialize in front-end technologies, but I'm also well-versed in back-end development. My goal is to create efficient and scalable solutions while constantly improving my skills and knowledge.
+    I'm a passionate developer with extensive experience in building dynamic and responsive web applications. I specialize in front-end technologies, but I'm also well-versed in back-end development. My goal is to create efficient and scalable solutions while constantly improving my skills and knowledge.
 </p>
 
 ---
