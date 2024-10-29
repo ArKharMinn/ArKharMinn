@@ -8,13 +8,6 @@
 
 ---
 
-<h3 align="left">🌟 GitHub Stats:</h3>
-<p align="left">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArKharMinn&show_icons=true&theme=radical)
-</p>
-
----
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank">
