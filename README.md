@@ -59,13 +59,16 @@
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
     </a>
+    <a href="https://redux.js.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40" />
+    </a>
 </p>
 
 ---
 
 <h3 align="left">🌐 Projects:</h3>
 <p align="left">
-    I am currently working on various projects to strengthen my skills. You can explore my work on my [GitHub](https://github.com/ArKharMinn).
+    I am currently working on various projects to strengthen my skills. You can explore my work on my <a href="https://github.com/ArKharMinn" target="_blank">GitHub</a>.
 </p>
 
 ---
