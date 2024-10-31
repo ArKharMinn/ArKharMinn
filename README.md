@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm ArkharMinn 👋</h1>
 
 <p align="center">
-    <a href="https://fb.com/akmin.9060" target="_blank">
+    <a href="https://www.facebook.com/akmin.9060" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
 </p>
@@ -105,5 +105,5 @@
 
 <h3 align="left">📫 Get in Touch</h3>
 <p align="left">
-    If you're interested in collaborating or have any opportunities, feel free to connect with me on <a href="https://fb.com/akmin.9060" target="_blank">Facebook</a>.
+    If you're interested in collaborating or have any opportunities, feel free to connect with me on <a href="https://www.facebook.com/akmin.9060" target="_blank">Facebook</a>.
 </p>
