@@ -34,7 +34,7 @@
     </span>
     <span style="margin-right: 10px;">
         <a href="https://getbootstrap.com" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Bootstrap_logo_1.svg" alt="Bootstrap" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
         </a>
     </span>
     <span style="margin-right: 10px;">
@@ -44,7 +44,7 @@
     </span>
     <span style="margin-right: 10px;">
         <a href="https://git-scm.com/" target="_blank">
-            <img src="https://git-scm.com/images/logos/git-logo-simplified.svg" alt="Git" width="40" height="40" />
+             <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" width="40" height="40" />
         </a>
     </span>
     <span style="margin-right: 10px;">
