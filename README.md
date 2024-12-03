@@ -92,6 +92,13 @@
             <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40" />
         </a>
     </span>
+
+    <span style="margin-right: 10px;">
+        <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/RESTful_API_logo.png" alt="RESTful API" width="40" height="40" />
+        </a>
+   </span>
+
 </p>
 
 ---
