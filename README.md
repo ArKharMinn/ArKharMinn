@@ -96,27 +96,10 @@
         </a>
     </span>
     <span style="margin-right: 10px;">
-        <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/RESTful_API_logo.png" alt="RESTful API" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
         <a href="https://expressjs.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
         </a>
     </span>
-<span style="margin-right: 10px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/WebSocket_logo.png" alt="WebSocket" width="40" height="40" />
-    </a>
-</span>
-<span style="margin-right: 10px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ajax_logo.png" alt="AJAX" width="40" height="40" />
-    </a>
-</span>
-
-
 </p>
 
 ---
