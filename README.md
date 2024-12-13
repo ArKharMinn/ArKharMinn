@@ -109,7 +109,7 @@
     </span>
     <span style="margin-right: 10px;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Ajax_logo.png" alt="AJAX" width="40" height="40" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Ajax_Logo.png" alt="AJAX" width="40" height="40" />
         </a>
     </span>
 </p>
