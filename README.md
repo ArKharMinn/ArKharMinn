@@ -5,10 +5,7 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/arkhar-minn-901a752a8" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="mailto:arkharminn@example.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Mail_icon.svg" alt="Email" height="30" width="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_icon_2013.svg" alt="LinkedIn" height="30" width="40" />
     </a>
 </p>
 
@@ -131,5 +128,5 @@
 
 <h3 align="left">📫 Get in Touch</h3>
 <p align="left">
-    If you're interested in collaborating or have any opportunities, feel free to connect with me on <a href="https://www.facebook.com/akmin.9060" target="_blank">Facebook</a>, <a href="https://www.linkedin.com/in/arkhar-minn-901a752a8" target="_blank">LinkedIn</a>, or send me an email at <a href="mailto:arkharminn@example.com">arkharminn@example.com</a>.
+    If you're interested in collaborating or have any opportunities, feel free to connect with me on <a href="https://www.facebook.com/akmin.9060" target="_blank">Facebook</a> or <a href="https://www.linkedin.com/in/arkhar-minn-901a752a8" target="_blank">LinkedIn</a>.
 </p>
