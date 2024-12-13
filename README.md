@@ -102,6 +102,16 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
         </a>
     </span>
+    <span style="margin-right: 10px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/WebSocket_logo.svg" alt="WebSocket" width="40" height="40" />
+        </a>
+    </span>
+    <span style="margin-right: 10px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Ajax_logo.png" alt="AJAX" width="40" height="40" />
+        </a>
+    </span>
 </p>
 
 ---
