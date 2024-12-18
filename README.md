@@ -1,23 +1,3 @@
-<h1 align="center">Hello, I'm ArkharMinn 👋</h1>
-
-<p align="center">
-    <a href="https://www.facebook.com/akmin.9060" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/arkhar-minn-901a752a8" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-</p>
-
----
-
-<h3 align="left">👨‍💻 About Me</h3>
-<p align="left">
-    I'm a developer passionate about web development with a keen interest in learning new technologies. I aim to contribute to impactful projects and collaborate with talented teams in a dynamic environment. My goal is to enhance my skills while delivering high-quality solutions.
-</p>
-
----
-
 <h3 align="left">🛠️ Technologies and Tools</h3>
 <p align="left">
     <span style="margin-right: 10px;">
@@ -100,25 +80,9 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
         </a>
     </span>
-
     <span style="margin-right: 10px;">
         <a href="https://www.python.org/" target="_blank">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
         </a>
     </span>
-
-</p>
-
----
-
-<h3 align="left">🌐 Projects</h3>
-<p align="left">
-    I am currently working on various projects to strengthen my skills. You can explore my work on my <a href="https://github.com/ArKharMinn" target="_blank">GitHub</a>.
-</p>
-
----
-
-<h3 align="left">📫 Get in Touch</h3>
-<p align="left">
-    If you're interested in collaborating or have any opportunities, feel free to connect with me on <a href="https://www.facebook.com/akmin.9060" target="_blank">Facebook</a> or <a href="https://www.linkedin.com/in/arkhar-minn-901a752a8" target="_blank">LinkedIn</a>.
 </p>
