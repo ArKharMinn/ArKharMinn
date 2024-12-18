@@ -100,6 +100,13 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
         </a>
     </span>
+
+    <span style="margin-right: 10px;">
+        <a href="https://www.python.org/" target="_blank">
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+        </a>
+    </span>
+
 </p>
 
 ---
