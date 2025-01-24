@@ -35,12 +35,11 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
         </a>
     </span>
-  <span style="margin-right: 10px;">
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" alt="TypeScript" height="30" width="40" />
-    </a>
-</span>
-
+    <span style="margin-right: 10px;">
+        <a href="https://www.typescriptlang.org/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" alt="TypeScript" height="30" width="40" />
+        </a>
+    </span>
     <span style="margin-right: 10px;">
         <a href="https://getbootstrap.com" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
