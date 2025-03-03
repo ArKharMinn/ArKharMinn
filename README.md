@@ -20,49 +20,54 @@
 
 <h3 align="left">🛠️ Technologies and Tools</h3>
 <p align="left">
-    <span style="margin-right: 10px;">
+    <span>
         <a href="https://www.w3.org/html/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
         </a>
     </span>
-    <span style="margin-right: 10px;">
+    <span>
         <a href="https://www.w3schools.com/css/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
         </a>
     </span>
-    <span style="margin-right: 10px;">
+    <span>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
         </a>
     </span>
-    <span style="margin-right: 10px;">
+    <span>
         <a href="https://www.typescriptlang.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" alt="TypeScript" height="30" width="40" />
         </a>
     </span>
-    <span style="margin-right: 10px;">
+    <span>
         <a href="https://nextjs.org/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
         </a>
     </span>
-    <span style="margin-right: 10px;">
+    <span>
         <a href="https://tailwindcss.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
         </a>
     </span>
-    <span style="margin-right: 10px;">
+    <span>
         <a href="https://laravel.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
         </a>
     </span>
-    <span style="margin-right: 10px;">
+    <span>
         <a href="https://filamentphp.com/" target="_blank">
             <img src="https://filamentphp.com/assets/img/logo.svg" alt="Laravel Filament" width="40" height="40" />
         </a>
     </span>
-    <span style="margin-right: 10px;">
+    <span>
         <a href="https://nodejs.org/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+        </a>
+    </span>
+    <span>
+        <a href="https://expressjs.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
         </a>
     </span>
 </p>
