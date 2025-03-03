@@ -41,6 +41,12 @@
         </a>
     </span>
     <span style="margin-right: 10px;">
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+    </a>
+</span>
+
+    <span style="margin-right: 10px;">
         <a href="https://getbootstrap.com" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
         </a>
