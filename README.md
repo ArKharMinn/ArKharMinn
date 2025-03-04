@@ -115,11 +115,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
         </a>
     </span>
-    <span>
-        <a href="https://filamentphp.com/" target="_blank">
-            <img src="" alt="Laravel Filament" width="100" height="40" />
-        </a>
-   </span>
 </p>
 
 ---
