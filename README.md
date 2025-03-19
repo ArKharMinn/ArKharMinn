@@ -115,6 +115,11 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
         </a>
     </span>
+    <span style="margin-right: 10px;">
+        <a href="https://laravel-livewire.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/laravel.svg" alt="Livewire" width="40" height="40" />
+        </a>
+    </span>
 </p>
 
 ---
