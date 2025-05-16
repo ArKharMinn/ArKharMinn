@@ -13,7 +13,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-    I'm a developer passionate about web development with a keen interest in learning new technologies. I aim to contribute to impactful projects and collaborate with talented teams in a dynamic environment. My goal is to enhance my skills while delivering high-quality solutions.
+    I'm a passionate web developer with a strong enthusiasm for exploring new technologies and building innovative solutions. I thrive in collaborative environments and enjoy contributing to meaningful projects that make an impact. My goal is to continuously grow as a developer while delivering efficient, high-quality work.
 </p>
 
 ---
