@@ -61,6 +61,12 @@
         </a>
     </span>
     <span style="margin-right: 10px;">
+        <a href="https://aws.amazon.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+        </a>
+    </span>
+
+    <span style="margin-right: 10px;">
         <a href="https://nextjs.org/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
         </a>
