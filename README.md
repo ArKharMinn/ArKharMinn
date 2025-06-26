@@ -167,28 +167,16 @@
 
   <!-- Projects -->
   <section style="background: #f8fafc; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; text-align: left;">
-    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">🚀 Featured Projects</h2>
-    <div>
-      <h3 style="font-size: 1.1rem; font-weight: 600;">E-Commerce Platform</h3>
-      <p style="color: #4a5568;">Full-stack solution using React, Node.js, and MongoDB.</p>
-      <a href="#" style="color: #4299e1;">View Project →</a>
-    </div>
-    <div style="margin-top: 1rem;">
-      <h3 style="font-size: 1.1rem; font-weight: 600;">Task Management App</h3>
-      <p style="color: #4a5568;">Built with Vue.js and Laravel featuring real-time updates.</p>
-      <a href="#" style="color: #4299e1;">View Project →</a>
-    </div>
-    <div style="margin-top: 1rem;">
-      <h3 style="font-size: 1.1rem; font-weight: 600;">Portfolio Website</h3>
-      <p style="color: #4a5568;">Responsive site using Next.js and Tailwind CSS.</p>
-      <a href="#" style="color: #4299e1;">View Project →</a>
-    </div>
+    <h3 align="left">🌐 Projects</h3>
+    <p align="left">
+        I am currently working on various projects to strengthen my skills. You can explore my work on my <a href="https://github.com/ArKharMinn" target="_blank">GitHub</a>.
+    </p>
   </section>
 
   <!-- Contact -->
   <section style="text-align: left;">
     <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">📫 Get In Touch</h2>
     <p style="color: #4a5568;">Open to projects, collaborations, or just a tech chat. Let’s connect!</p>
-    <a href="mailto:your.email@example.com" style="background: #4299e1; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">Email Me</a>
+    <a href="mailto:arkharminn.dev@gmail.com" style="background: #4299e1; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">Email Me</a>
   </section>
 </div>
