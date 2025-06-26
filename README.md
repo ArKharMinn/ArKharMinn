@@ -51,11 +51,6 @@
         </a>
     </span>
     <span style="margin-right: 10px;">
-        <a href="https://git-scm.com/" target="_blank">
-             <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
         <a href="https://reactnative.dev/" target="_blank">
             <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
         </a>
@@ -148,6 +143,11 @@
     <span style="margin-right: 10px;">
         <a href="https://www.docker.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+        </a>
+    </span>
+    <span style="margin-right: 10px;">
+        <a href="https://git-scm.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
         </a>
     </span>
 </p>
