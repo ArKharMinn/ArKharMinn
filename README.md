@@ -141,11 +141,10 @@
         </a>
     </span>
     <span style="margin-right: 10px;">
-        <a href="https://laravel-livewire.com/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/laravel.svg" alt="Livewire" width="40" height="40" />
+        <a href="https://laravel.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/laravel.svg" alt="Laravel" width="40" height="40" />
         </a>
     </span>
-    <!-- Docker Icon -->
     <span style="margin-right: 10px;">
         <a href="https://www.docker.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
