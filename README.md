@@ -167,7 +167,7 @@
 
   <!-- Projects -->
   <section style="background: #f8fafc; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; text-align: left;">
-    <h3 align="left">🌐 Projects</h3>
+    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">🌐 Projects</h2>
     <p align="left">
         I am currently working on various projects to strengthen my skills. You can explore my work on my <a href="https://github.com/ArKharMinn" target="_blank">GitHub</a>.
     </p>
