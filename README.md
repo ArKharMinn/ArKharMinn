@@ -153,6 +153,11 @@
         </a>
     </span>
     <span style="margin-right: 10px;">
+        <a href="https://alpinejs.dev/" target="_blank">
+          <img src="https://raw.githubusercontent.com/alpinejs/alpine/master/logo.svg" alt="Alpine.js" width="40" height="40" />
+        </a>
+    </span>
+    <span style="margin-right: 10px;">
         <a href="https://www.docker.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
         </a>
