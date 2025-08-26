@@ -154,7 +154,7 @@
     </span>
     <span style="margin-right: 10px;">
         <a href="https://alpinejs.dev/" target="_blank">
-          <img src="https://raw.githubusercontent.com/alpinejs/alpine/master/logo.svg" alt="Alpine.js" width="40" height="40" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="40" height="40" />
         </a>
     </span>
     <span style="margin-right: 10px;">
