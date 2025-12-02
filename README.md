@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+ArKhar+Minn;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <!-- Profile Image with Badges -->
-<img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" alt="Profile" width="200" style="border-radius: 50%; border: 4px solid #8B5CF6; margin: 20px 0;" />
+<img src="https://avatars.githubusercontent.com/u/ArKharMinn" alt="Profile" width="200" style="border-radius: 50%; border: 4px solid #8B5CF6; margin: 20px 0;" />
 
 <!-- Badges -->
 <div>
