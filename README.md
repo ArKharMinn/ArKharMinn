@@ -1,187 +1,211 @@
-<div align="center" style="max-width: 800px; margin: auto; padding: 2rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2d3748;">
+<div align="center">
 
-  <!-- Header -->
-  <header style="margin-bottom: 2rem;">
-    <h1 style="font-size: 2.5rem; font-weight: 700;">Hello, I'm Arkhar Minn 👋</h1>
-    <p style="font-size: 1.1rem; color: #4a5568;">Full Stack Developer | Tech Enthusiast | Problem Solver</p>
-  </header>
+<!-- Animated Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+ArKhar+Minn;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;UI%2FUX+Designer" alt="Typing SVG" />
 
-  <!-- Social Links -->
-  <section style="display: flex; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
-    <a href="https://www.facebook.com/akmin.9060" target="_blank" title="Facebook">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="32" />
-    </a>
-    <a href="https://www.linkedin.com/in/arkhar-minn-901a752a8" target="_blank" title="LinkedIn">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32" />
-    </a>
-    <a href="https://github.com/ArKharMinn" target="_blank" title="GitHub">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="32" />
-    </a>
-  </section>
+<!-- Profile Image with Badges -->
+<img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" alt="Profile" width="200" style="border-radius: 50%; border: 4px solid #8B5CF6; margin: 20px 0;" />
 
-  <!-- About Me -->
-  <section style="background: #f8fafc; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; text-align: left;">
-    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">👨‍💻 About Me</h2>
-    <p style="line-height: 1.6; color: #4a5568;">
-      I'm a passionate full-stack developer with expertise in scalable web applications. With strong frontend and backend skills,
-      I deliver efficient, user-friendly solutions and continuously strive to learn and improve.
-    </p>
-  </section>
+<!-- Badges -->
+<div>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-8B5CF6?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-10B981?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/JavaScript%20Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Expert" />
+</div>
 
-  <!-- Tech Stack -->
-  <section style="margin-bottom: 2rem; text-align: left;">
-    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">🛠️ Tech Stack</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); gap: 1rem;">
-     <span style="margin-right: 10px;">
-        <a href="https://www.w3.org/html/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.w3schools.com/css/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.typescriptlang.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" width="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://getbootstrap.com" target="_blank">
-            <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://tailwindcss.com/" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://reactnative.dev/" target="_blank">
-            <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://aws.amazon.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://nextjs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://jquery.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.mysql.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.mongodb.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.postgresql.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.php.net" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.java.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://spring.io/projects/spring-boot" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://vuejs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://laravel.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://reactjs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://redux.js.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://expressjs.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.python.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://nodejs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://laravel-livewire.com/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/livewire.svg" alt="Livewire" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://alpinejs.dev/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.docker.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://git-scm.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-        </a>
-    </span>
-    </div>
-  </section>
+<br/>
 
-  <!-- Projects -->
-  <section style="background: #f8fafc; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; text-align: left;">
-    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">🌐 Projects</h2>
-    <p align="left">
-        I am currently working on various projects to strengthen my skills. You can explore my work on my <a href="https://github.com/ArKharMinn" target="_blank">GitHub</a>.
-    </p>
-  </section>
+<!-- Social Links -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akmin.9060)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkhar-minn-901a752a8)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArKharMinn)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkharminn.dev@gmail.com)
 
-  <!-- Contact -->
-  <section style="text-align: left;">
-    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">📫 Get In Touch</h2>
-    <p style="color: #4a5568;">Open to projects, collaborations, or just a tech chat. Let’s connect!</p>
-    <a href="mailto:arkharminn.dev@gmail.com" style="background: #4299e1; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">Email Me</a>
-  </section>
+<br/>
+
+<!-- Stats Cards -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Projects-15+-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Technologies-25+-F59E0B?style=for-the-badge&logo=codepen&logoColor=white" alt="Technologies" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Experience-3%2B%20Years-10B981?style=for-the-badge&logo=experience&logoColor=white" alt="Experience" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 About Me
+
+> Passionate full-stack developer with expertise in building scalable web applications. I specialize in creating efficient, user-friendly solutions using modern technologies. Always eager to learn new technologies and tackle challenging problems.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Fast%20Learner-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎯-Problem%20Solver-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/✨-Attention%20to%20Detail-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔧-Clean%20Code-10B981?style=flat-square" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Database & DevOps**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 iApprove</h3>
+      <p align="center">
+        Digital signature platform with approval tracking and PDF exports
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Merchant Mobile App</h3>
+      <p align="center">
+        Mobile application for product showcase and inventory management
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 ShopNest Admin</h3>
+      <p align="center">
+        E-commerce administration dashboard with analytics
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 TikTok Downloader</h3>
+      <p align="center">
+        Download TikTok videos without watermark
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=api&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/ArKharMinn?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![ArKhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArKharMinn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArKharMinn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArKharMinn&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![ArKhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArKharMinn&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArKharMinn&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:arkharminn.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://www.linkedin.com/in/arkhar-minn-901a752a8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/ArKharMinn">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ **Fun Facts**
+- 🔭 I'm currently working on **multiple full-stack projects**
+- 🌱 I'm currently learning **advanced cloud architectures**
+- 👯 I'm looking to collaborate on **open-source projects**
+- 💬 Ask me about **React, Laravel, or anything web development**
+- 📫 How to reach me: **arkharminn.dev@gmail.com**
+- ⚡ Fun fact: **I can debug while sleeping (almost!)**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ArKharMinn&color=8B5CF6&style=flat-square" alt="Profile Views" />
+
+**Thanks for visiting my profile!** ✨
+
 </div>
