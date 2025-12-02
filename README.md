@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+ArKhar+Minn;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;UI%2FUX+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+ArKhar+Minn;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <!-- Profile Image with Badges -->
 <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" alt="Profile" width="200" style="border-radius: 50%; border: 4px solid #8B5CF6; margin: 20px 0;" />
@@ -90,66 +90,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 iApprove</h3>
-      <p align="center">
-        Digital signature platform with approval tracking and PDF exports
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Merchant Mobile App</h3>
-      <p align="center">
-        Mobile application for product showcase and inventory management
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 ShopNest Admin</h3>
-      <p align="center">
-        E-commerce administration dashboard with analytics
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎯 TikTok Downloader</h3>
-      <p align="center">
-        Download TikTok videos without watermark
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=api&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/ArKharMinn?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
