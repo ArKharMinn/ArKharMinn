@@ -3,9 +3,6 @@
 <!-- Animated Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+ArKhar+Minn;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
-<!-- Profile Image with Badges -->
-<img src="https://avatars.githubusercontent.com/u/ArKharMinn" alt="Profile" width="200" style="border-radius: 50%; border: 4px solid #8B5CF6; margin: 20px 0;" />
-
 <!-- Badges -->
 <div>
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-8B5CF6?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Full Stack Developer" />
@@ -87,20 +84,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![ArKhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArKharMinn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArKharMinn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArKharMinn&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
-
-</div>
 
 ---
 
