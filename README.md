@@ -24,7 +24,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Projects-15+-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+      <img src="https://img.shields.io/badge/Projects-99++-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Technologies-25+-F59E0B?style=for-the-badge&logo=codepen&logoColor=white" alt="Technologies" />
