@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Projects-99+-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Technologies-25+-F59E0B?style=for-the-badge&logo=codepen&logoColor=white" alt="Technologies" />
+      <img src="https://img.shields.io/badge/Technologies-20+-F59E0B?style=for-the-badge&logo=codepen&logoColor=white" alt="Technologies" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Experience-3%2B%20Years-10B981?style=for-the-badge&logo=experience&logoColor=white" alt="Experience" />
