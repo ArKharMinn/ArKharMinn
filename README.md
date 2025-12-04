@@ -93,12 +93,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArKharMinn&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
