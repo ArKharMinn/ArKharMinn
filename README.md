@@ -30,7 +30,7 @@
       <img src="https://img.shields.io/badge/Technologies-20+-F59E0B?style=for-the-badge&logo=codepen&logoColor=white" alt="Technologies" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Experience-3%2B%20Years-10B981?style=for-the-badge&logo=experience&logoColor=white" alt="Experience" />
+      <img src="https://img.shields.io/badge/Experience-4%2B%20Years-10B981?style=for-the-badge&logo=experience&logoColor=white" alt="Experience" />
     </td>
   </tr>
 </table>
